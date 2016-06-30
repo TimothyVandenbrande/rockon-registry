@@ -20,6 +20,13 @@
                         "protocol": "tcp",
                         "ui": true
                     }
+                    "58846": {
+                        "description": "Deluge Daemon port. Suggested default: 58846",
+                        "host_default": 58846,
+                        "label": "Daemon port",
+                        "protocol": "tcp",
+                        "ui": true
+                    }
                 },
                 "volumes": {
                     "/config": {
