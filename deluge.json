@@ -45,7 +45,7 @@
             }
         },
         "description": "Deluge is a movie downloader for bittorrent users.",
-        "more_info": "<h4>Default username: admin</p>Default password: deluge. Also for daemonusage with CP etc. visit https://couchpota.to/forum/viewtopic.php?t=4158, and edit authfile found in config folder.",
+        "more_info": "Default username: admin<br>Default password: deluge.",
         "ui": {
             "slug": ""
         },
