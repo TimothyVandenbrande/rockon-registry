@@ -3,8 +3,7 @@
         "containers": {
             "Deluge": {
                 "image": "linuxserver/deluge",
-                "launch_order": 1
-        ],
+                "launch_order": 1,
                 "ports": {
                     "8112": {
                         "description": "Deluge WebUI port. Suggested default: 8112",
